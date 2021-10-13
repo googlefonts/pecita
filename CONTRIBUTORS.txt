@@ -8,3 +8,7 @@
 #
 # Names should be added to this file as:
 # Name <email address>
+
+Philippe Cochy
+Rosalie Wagner <mail@rosaliewagner.com>
+Emma Marichal <bonjour@emmamarichal.fr>
